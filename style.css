@@ -16,18 +16,22 @@ body {
 }
 
 .main-content {
-    margin-top: 20px;
+    margin-top: 40px;
     background-color: white;
     color:rgb(13, 155, 155);
-    width: 960px;
+    width: 680px;
     font-weight: bold;
+    margin-left: 480px;
+    
+    
 
     
     
-    
+ 
 }
 .lead {
     color:gray;
+    
     
 }
 
@@ -74,3 +78,23 @@ p {
     width: 80%;
 }
 
+.btn {
+    background-color:rgb(13, 155, 155);
+    border: rgb(13, 155, 155);
+    margin-bottom: 20px;
+}
+
+.form-group {
+    color:grey;
+}
+
+.img {
+    padding: 15spx;
+    margin-bottom: 30px;
+}
+
+.textblock {
+    background-color: rgb(13, 155, 155);
+    color: white;
+    text-align: center;
+}
